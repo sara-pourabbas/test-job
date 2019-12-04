@@ -1,0 +1,22 @@
+
+.footer-div{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  background-color: black;
+  z-index: 1;
+  padding: 0 0 50px;
+  color: #a5a5a5;
+  box-sizing: border-box;
+  .img-footer{
+    position: absolute;
+    top: -31px;
+  }
+  .section1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: .5px solid #464646;
+  }
+}

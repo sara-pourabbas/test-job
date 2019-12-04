@@ -1,0 +1,63 @@
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: #efefef;
+  z-index: 1000;
+  -webkit-transition: background-color 0.5s;
+  transition: background-color 0.5s;
+  .header-in{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    height: 80px;
+    padding: 0 50px 0 90px;
+    .top-menu{
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      color:#696969;
+      .menu-item{
+        display: inline-block;
+        margin: 0 10px;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.5s;
+        &:hover{
+          border-color:#696969;
+        }
+      }
+      .btn-login{
+        background-color: black;
+        color:white;
+      }
+      .btn-sign-up{
+        border:1px solid rgb(2, 103, 100);
+        color:rgb(2, 103, 100);
+        background: none;
+      }
+
+      .basket{
+        display: inline-flex;
+        padding: 12px;
+        font-size: 25px;
+        color:rgb(2, 103, 100);
+        border-radius: 50%;
+        &:hover{
+          background-color: rgba(0, 0, 0, 0.08);
+        }
+      }
+    }
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .menu-item,.btn-login{
+    display: none !important;
+  }
+
+}

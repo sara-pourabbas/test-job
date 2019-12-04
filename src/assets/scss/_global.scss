@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Trebuchet';
+  src: url('../fonts/Trebuchet/trebuc.woff'); /* IE9 Compat Modes */
+}
+
+body{
+  font-family: Trebuchet !important;
+}
+a ,button *{
+  cursor: pointer;
+}
+.btn-login,.btn-sign-up,.btn-change{
+  display: inline-block;
+  margin: 0 5px;
+  font-size: 12px;
+  border-radius: 30px;
+}
