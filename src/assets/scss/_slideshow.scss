@@ -1,7 +1,5 @@
-.contain{
-  position: relative;
-  width: 100%;
-  .slider{
+
+  .slideShow{
     display: flex;
     justify-content: center;
     position: fixed;
@@ -10,7 +8,7 @@
     z-index: 0;
     top: 80px;
     background-color: rgb(255, 195, 171);
-    .back-slider{
+    .bg-slider{
       position: absolute;
       top:0;
       left: 0;
@@ -23,17 +21,17 @@
       }
     }
 
-    .slider-items{
+    .slideShow-text{
       position: relative;
       flex-grow: 0;
       width: 90%;
       flex-basis: 90%;
-      .slider-text{
+      .slideShow-title{
         color:black;
         font-size: 18px;
         height: 300px;
         position: relative;
-        .use{
+        .use-button{
           position: absolute;
           bottom: 0;
           display: inline-block;
@@ -42,54 +40,21 @@
           font-size: 18px;
           color:white;
           padding: 12px;
-          .use-in{
+          .use-button-title{
             background-color: rgb(2, 103, 100);
             padding: 5px;
             border-radius: 5px;
           }
         }
       }
-      .slider-nav{
+      .slideShow-dot{
         position: absolute;
         bottom: 20px;
         left: 0;
         right: 0;
         text-align: center;
-        .btn-out{
-          cursor: pointer;
-          padding: 10px;
-          border-radius: 50%;
-          display: inline-block;
-          &:hover{
-            background-color: rgba(0, 0, 0, 0.08);
-          }
-          input{
-            position: absolute;
-            opacity: 0;
-          }
-          .input-custom{
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 20px;
-            width: 20px;
-            border-radius: 50%;
-            border:2px solid rgb(2, 103, 100);
-            &:after{
-              top: 10px;
-              left: 10px;
-              width: 8px;
-              height: 8px;
-              border-radius: 50%;
-              background: rgb(2, 103, 100);
-              display: block;
-              content: "";
-            }
-          }
-
-        }
 
       }
     }
   }
-}
+

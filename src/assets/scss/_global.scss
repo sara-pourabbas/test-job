@@ -9,9 +9,11 @@ body{
 a ,button *{
   cursor: pointer;
 }
-.btn-login,.btn-sign-up,.btn-change{
+.login-button,.sign-up-button,.btn-change{
   display: inline-block;
   margin: 0 5px;
   font-size: 12px;
   border-radius: 30px;
+  padding: 0 10px;
+  height: 30px;
 }
