@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ac574f8.chunk.css",
+    "main.js": "/static/js/main.54792dba.chunk.js",
+    "main.js.map": "/static/js/main.54792dba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.898006bb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.898006bb.js.map",
+    "static/css/2.34845db8.chunk.css": "/static/css/2.34845db8.chunk.css",
+    "static/js/2.2558b5b8.chunk.js": "/static/js/2.2558b5b8.chunk.js",
+    "static/js/2.2558b5b8.chunk.js.map": "/static/js/2.2558b5b8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba9266f6751a6656db28765a9568c14a.js": "/precache-manifest.ba9266f6751a6656db28765a9568c14a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.34845db8.chunk.css.map": "/static/css/2.34845db8.chunk.css.map",
+    "static/css/main.0ac574f8.chunk.css.map": "/static/css/main.0ac574f8.chunk.css.map",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/gift-card.jpg": "/static/media/gift-card.13399d0a.jpg",
+    "static/media/logo.png": "/static/media/logo.48cd7576.png",
+    "static/media/slider-back.jpg": "/static/media/slider-back.d4396cb2.jpg",
+    "static/media/_global.scss": "/static/media/trebuc.15ae7724.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.898006bb.js",
+    "static/css/2.34845db8.chunk.css",
+    "static/js/2.2558b5b8.chunk.js",
+    "static/css/main.0ac574f8.chunk.css",
+    "static/js/main.54792dba.chunk.js"
+  ]
+}
