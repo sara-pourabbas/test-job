@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import {AppBar,Toolbar,Button} from '@material-ui/core';
-import logo from '../assets/images/logo.png';
+import logo from '../assets/images/Logo2.png';
 
 class Header extends Component{
 
@@ -11,7 +11,7 @@ class Header extends Component{
             <AppBar position="fixed">
                 <Toolbar className='toolbar'>
                     <div className='logo'>
-                        <img src={logo} alt='logo'/>
+                        <img src={logo} alt='logo' className='logo-pic'/>
                     </div>
                     <div className='nav-bar '>
                         <a className='item-menu' > Reservation </a>
