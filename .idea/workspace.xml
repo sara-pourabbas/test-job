@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd79d77-c8b4-48ed-89f6-e90cfb837bd9" name="Default Changelist" comment="change carousel and add build">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.05a400b90dfe6a9496c28715a77f78e3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.c0dd88e9.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.c0dd88e9.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.0caca8c2.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.0caca8c2.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.6d441dcf.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.6d441dcf.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.aa3052ee.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.aa3052ee.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.4ac22916.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.4ac22916.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/Logo2.8be16200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fontawesome-webfont.674f50d2.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fontawesome-webfont.912ec66d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fontawesome-webfont.af7ae505.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fontawesome-webfont.b06871f2.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fontawesome-webfont.fee66e71.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/gift-card.13399d0a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/logo.48cd7576.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/slider-back.d4396cb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/trebuc.15ae7724.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-    </list>
+    <list default="true" id="8dd79d77-c8b4-48ed-89f6-e90cfb837bd9" name="Default Changelist" comment="change carousel and add build" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -96,7 +64,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/CarouselItem.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1326">
@@ -138,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
+            <state relative-caret-position="452">
               <caret line="39" column="12" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="12" />
             </state>
           </provider>
@@ -303,7 +271,7 @@
       <workItem from="1576676367473" duration="4778000" />
       <workItem from="1576700194147" duration="711000" />
       <workItem from="1576727311626" duration="729000" />
-      <workItem from="1577263526329" duration="2235000" />
+      <workItem from="1577263526329" duration="2838000" />
     </task>
     <task id="LOCAL-00001" summary="build">
       <created>1576664230504</created>
@@ -323,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70546000" />
+    <option name="totallyTimeSpent" value="71149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -342,7 +310,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,13 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Carousel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -502,6 +463,13 @@
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="12" />
         </state>
       </provider>
     </entry>
