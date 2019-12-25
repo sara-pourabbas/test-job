@@ -3,7 +3,7 @@ import {Button} from '@material-ui/core';
 import { Carousel } from "./Carousel";
 import myJson from "../menu.json";
 import giftCard from '../assets/images/gift-card.jpg';
-import logo from '../assets/images/logo.png';
+import logo from '../assets/images/Logo2.png';
 import Container from '@material-ui/core/Container';
 
 
@@ -14,17 +14,23 @@ class CarouselItem extends Component{
     };
     deliveryMarker=()=>{
         let freeDelivery= myJson.filter(a=> a.isAcceptingDelivery===true);
-        this.setState({typeMarker:'delivery',free:freeDelivery});
+        this.setState({typeMarker:'delivery'
+           // ,free:freeDelivery
+        });
     };
 
     pickupMarker=()=>{
         let freePickup= myJson.filter(a=>a.isAcceptingDelivery===false);
-        this.setState({typeMarker:'pickup',free:freePickup})
+        this.setState({typeMarker:'pickup'
+            //,free:freePickup
+        })
     };
 
     componentDidMount(){
         let freeDelivery= myJson.filter(a=> a.isAcceptingDelivery===true);
-        this.setState({typeMarker:'delivery',free:freeDelivery},()=>
+        this.setState({typeMarker:'delivery'
+           // ,free:freeDelivery
+        },()=>
         {
             console.log('free',this.state.free)
         });
@@ -58,7 +64,7 @@ class CarouselItem extends Component{
                         <div className=' mt-4'>
                             <div className='title-carousel'> Salad </div>
                             <div className='scrolling-carousel' />
-                            <Carousel  items={this.state.free} />
+                            <Carousel  items={myJson} />
 
                         </div>
                         <div className='gift-card py-4'>
