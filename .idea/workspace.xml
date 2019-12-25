@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd79d77-c8b4-48ed-89f6-e90cfb837bd9" name="Default Changelist" comment="change carousel and add build">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="8dd79d77-c8b4-48ed-89f6-e90cfb837bd9" name="Default Changelist" comment="change carousel and add build" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -273,7 +271,7 @@
       <workItem from="1576676367473" duration="4778000" />
       <workItem from="1576700194147" duration="711000" />
       <workItem from="1576727311626" duration="729000" />
-      <workItem from="1577263526329" duration="3481000" />
+      <workItem from="1577263526329" duration="4051000" />
     </task>
     <task id="LOCAL-00001" summary="build">
       <created>1576664230504</created>
@@ -293,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71792000" />
+    <option name="totallyTimeSpent" value="72362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />

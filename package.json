@@ -1,6 +1,6 @@
 {
-  "name": "test-job",
   "homepage": "http://sarapourabbas208.github.io/test-job",
+  "name": "test-job",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
